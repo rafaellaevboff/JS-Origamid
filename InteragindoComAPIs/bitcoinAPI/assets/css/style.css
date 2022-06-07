@@ -1,0 +1,16 @@
+body{
+    background: rgb(181, 120, 5);
+}
+
+h1, p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    padding: 10px;
+    color: white;
+}
+
+#conteudo{
+    margin-top: 15%;
+    display: grid;
+    grid-template-rows: 40% 20% 20% 20%;
+}

@@ -1,0 +1,15 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: darkolivegreen;
+}
+
+label{
+    display: block;
+    margin: 10px;
+}
+
+input{
+    display: block;
+    margin: 10px;
+    padding: 5px;
+}
