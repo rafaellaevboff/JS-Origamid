@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(0, 0, 0);
+    font-size: 30px;
+}
+
+h3{
+    font-family: monospace;
+    margin-top: 100px;
+    color: white;
+}
+
+.tempo{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(98, 255, 0);
+}
+
+#contadorConteudo{
+    text-align: center;
+}
