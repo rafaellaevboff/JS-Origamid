@@ -14,6 +14,9 @@ Projeto em desenvolvimento do curso da plataforma [Origamid](https://www.origami
 ### [Contador](https://rafaellaevboff.github.io/JS-Origamid/contadorJS/)
 [Repositório no GitHub](https://github.com/rafaellaevboff/JS-Origamid/tree/main/contadorJS)
 
+### [Contagem Regressiva para o Natal e Ano-Novo](https://rafaellaevboff.github.io/JS-Origamid/contagemRegressiva/)
+[Repositório no GitHub](https://github.com/rafaellaevboff/JS-Origamid/tree/main/contagemRegressiva)
+
 ### [Saber valor atual do Bitcoin](https://rafaellaevboff.github.io/JS-Origamid/InteragindoComAPIs/bitcoinAPI/)
 [Repositório no GitHub](https://github.com/rafaellaevboff/JS-Origamid/tree/main/InteragindoComAPIs/bitcoinAPI)
 
