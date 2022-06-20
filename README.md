@@ -23,6 +23,9 @@ Projeto em desenvolvimento do curso da plataforma [Origamid](https://www.origami
 ### [Mostrar piadas Chuck Norris](https://rafaellaevboff.github.io/JS-Origamid/InteragindoComAPIs/piadasAPI/)
 [Repositório no GitHub](https://github.com/rafaellaevboff/JS-Origamid/tree/main/InteragindoComAPIs/piadasAPI)
 
+### [Validar CPF](https://rafaellaevboff.github.io/JS-Origamid/ValidarCPF)
+[Repositório no GitHub](https://github.com/rafaellaevboff/JS-Origamid/tree/main/ValidarCPF)
+
 ### [CEP](https://rafaellaevboff.github.io/JS-Origamid/InteragindoComAPIs/cepAPI/)
 [Repositório no GitHub](https://github.com/rafaellaevboff/JS-Origamid/tree/main/InteragindoComAPIs/cepAPI)
 
