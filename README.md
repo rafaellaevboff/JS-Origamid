@@ -3,9 +3,16 @@ Projeto em desenvolvimento do curso da plataforma [Origamid](https://www.origami
 
 ## Temas abordados durante o curso:
 - Objetos
+- Classes
 - Interação com o DOM
 - JavaScript Assíncrono
 - Interação com API
+- Regular Expression (regexp)
+- NPM
+- ESLint
+- Webpack
+- Babel
+- Git
 
 # Projetos desenvolvidos ao decorrer do curso:
 ### [Criar botão](https://rafaellaevboff.github.io/JS-Origamid/button-creator/)
